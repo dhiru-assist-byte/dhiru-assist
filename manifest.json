@@ -1,0 +1,8 @@
+{
+  "name": "Dhiru Assist",
+  "short_name": "DhiruAssist",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b1d3a",
+  "theme_color": "#d4af37"
+}
